@@ -1,0 +1,9 @@
+.*
+!/.gitignore
+!/.drone.sec
+!/.drone.yml
+terraform.tfstate
+terraform.tfstate.backup
+modules/kubernetes/Files/ansible
+modules/kubernetes/Files/ansible.pub
+secrets.yml
